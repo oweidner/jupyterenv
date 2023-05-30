@@ -11,6 +11,7 @@ plotly = "*"
 pandas = "*"
 ipywidgets = "*"
 jupyter-dash = "*"
+mypy = "*"
 
 [dev-packages]
 
