@@ -12,6 +12,7 @@ pandas = "*"
 ipywidgets = "*"
 jupyter-dash = "*"
 pyarrow = "*"
+mypy = "*"
 
 [dev-packages]
 
