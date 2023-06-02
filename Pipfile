@@ -13,6 +13,11 @@ ipywidgets = "*"
 jupyter-dash = "*"
 pyarrow = "*"
 mypy = "*"
+line-profiler = "*"
+py-heat-magic = "*"
+memory-profiler = "*"
+sciagraph = "*"
+nbdime = "*"
 
 [dev-packages]
 
