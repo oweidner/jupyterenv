@@ -18,6 +18,7 @@ py-heat-magic = "*"
 memory-profiler = "*"
 sciagraph = "*"
 nbdime = "*"
+tensorflow = "*"
 
 [dev-packages]
 
